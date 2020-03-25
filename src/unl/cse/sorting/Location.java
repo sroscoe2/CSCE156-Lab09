@@ -36,10 +36,10 @@ public class Location implements Comparable<Location> {
 		return state;
 	}
 
-	/**
+     /**
       * Complete the implementation of this method that will be used for sorting
       * using the java.util.Collections.sort method.
-      * @param o
+      * @param l
       * @return
       */
     @Override
