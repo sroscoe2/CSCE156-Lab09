@@ -61,7 +61,7 @@ public class Location implements Comparable<Location> {
 	
 	@Override
 	public boolean equals(Object obj) {
-		return (this.compareTo((Location) obj) == 0);
+		return (obj != null && obj instanceof Location) ? (this.compareTo((Location) obj) == 0) : false;
 	}
 
 	@Override
