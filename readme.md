@@ -83,7 +83,7 @@ For this lab, we have provided a file containing United States
 geographical data (specifically, a comprehensive list of 80264
 geographical locations identified by 5-digit zip code, city, state 
 and latitude/longitude). Functionality has already been provided for
-processing this data file and creating an array of `Location` objects 
+processing this data file and creating an list of `Location` objects 
 to hold this data. Each time you run the `main()` method in the 
 `SortingPerformance` class, a random selection of locations is loaded. 
 The variable `n` specifies the number of locations to be used
