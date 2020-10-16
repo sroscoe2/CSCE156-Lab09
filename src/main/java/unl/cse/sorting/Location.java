@@ -38,15 +38,14 @@ public class Location implements Comparable<Location> {
 
 	/**
 	 * Complete the implementation of this method that will be used for sorting
-	 * using the java.util.Collections.sort method.
+	 * collections of Locations.
 	 * 
 	 * @param l
 	 * @return
 	 */
 	@Override
 	public int compareTo(Location l) {
-		return this.latitude.compareTo(l.getLatitude());
-		//throw new UnsupportedOperationException("YOU MUST IMPLEMENT THIS");
+		throw new UnsupportedOperationException("YOU MUST IMPLEMENT THIS");
 	}
 
 	@Override
