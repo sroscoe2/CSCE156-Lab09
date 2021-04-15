@@ -14,7 +14,7 @@ public class SortingTests {
 	 * a small (100) randomly selected list of {@link Location} instances.
 	 */
 	@RepeatedTest(10)
-	void insertionSortTest() {
+	public void insertionSortTest() {
 		List<Location> locations = LocationUtils.getRandomList(100);
 		List<Location> actual = new ArrayList<>(locations);
 		List<Location> expected = new ArrayList<>(locations);
@@ -29,7 +29,7 @@ public class SortingTests {
 	 * small (100) randomly selected list of {@link Location} instances.
 	 */
 	@RepeatedTest(10)
-	void quickSortTest() {
+	public void quickSortTest() {
 		List<Location> locations = LocationUtils.getRandomList(100);
 		List<Location> actual = new ArrayList<>(locations);
 		List<Location> expected = new ArrayList<>(locations);
