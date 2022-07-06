@@ -21,6 +21,8 @@ Prior to lab you should read/review the following resources.
     -   <http://en.wikipedia.org/wiki/Insertion_sort>
 
     -   <http://en.wikipedia.org/wiki/Quick_sort>
+    
+    - <https://youtu.be/Hoixgm4-P4M>
 
 2.  Familiarize yourself with sorting algorithms using the following
     site: <http://www.sorting-algorithms.com/>
