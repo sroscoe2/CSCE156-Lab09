@@ -23,6 +23,8 @@ Prior to lab you should read/review the following resources.
     -   <http://en.wikipedia.org/wiki/Quick_sort>
     
     - <https://youtu.be/Hoixgm4-P4M>
+    - <https://www.youtube.com/watch?v=ROalU379l3U>
+    - <https://www.youtube.com/watch?v=3San3uKKHgg>
 
 2.  Familiarize yourself with sorting algorithms using the following
     site: <http://www.sorting-algorithms.com/>
